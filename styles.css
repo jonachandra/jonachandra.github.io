@@ -1,0 +1,28 @@
+/* Minimal custom styling for an academic profile site */
+
+.navbar-brand {
+  font-weight: 600;
+}
+
+h1, h2, h3 {
+  scroll-margin-top: 90px;
+}
+
+.quarto-title-banner {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+
+p {
+  line-height: 1.65;
+}
+
+.panel-tabset {
+  margin-top: 1rem;
+}
+
+.bio-text {
+  text-align: justify;
+  text-justify: inter-word;
+  line-height: 1.7;
+}
