@@ -1,0 +1,44 @@
+---
+title: "Student Supervision"
+---
+
+This page lists current and past students whom I supervise in thesis,
+research, project, and practical-work activities.
+
+::: {.panel-tabset}
+
+## Current Students
+
+### Final Project
+1. Renald Yong Pratomo
+2. Emmanuel Dominic Santoso
+3. Juan Edbert Mulyadi
+4. Figo Theo
+
+### Supervised Independent Study
+1.  Renald Yong Pratomo 
+2.  Emmanuel Dominic Santoso
+
+### Mechatronics Project
+
+##### **Control Theory Group**
+**Group 1:** Renald Yong Pratomo, Emmanuel Dominic Santoso
+
+##### **Mechanical Design Group**
+**Group 1:** Gregorius Ravendra Prasetyo, Evan Adrian Hermawan 
+
+**Group 2:** Muhammad Chaerul Arief, Jeremy Silvio Kurniawan
+
+## Past Students (Thesis)
+
+### Graduated 2026
+
+1. Francesco Jonathan Benedict Cahyono - (Co-supervised with Prof. Dr. Ir. Bagus Arthaya) 
+2. Adrianus Hadeli - (Co-supervised with Ir. Levin Halim, M.Eng)
+
+### Graduated 2025
+
+1. Michael Andrianto Gunarso    - (Co-supervised with Tua Tamba, Ph.D) Now: Ph.D Student, University of South Carolina
+2. Timotius R. C. Widjaja       - (Co-supervised with Tua Tamba, Ph.D) Now: Engineering Section Head, Mayora Group
+
+:::

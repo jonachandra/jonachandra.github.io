@@ -1,0 +1,46 @@
+---
+title: "Research"
+---
+
+# Research
+
+## Research Interests
+
+- [Research interest 1]
+- [Research interest 2]
+- [Research interest 3]
+- [Research interest 4]
+
+## Current Projects
+
+### [Project Title 1]
+
+**Role:** [Project Lead / Team Member]  
+**Period:** [Month Year – Month Year]  
+**Funding:** [Funding source]
+
+[Short description of the project, objective, method, and your contribution.]
+
+### [Project Title 2]
+
+**Role:** [Role]  
+**Period:** [Period]  
+**Funding:** [Funding source]
+
+[Short project description.]
+
+## Previous Projects
+
+### [Previous Project Title]
+
+**Role:** [Role]  
+**Period:** [Period]
+
+[Short description.]
+
+## Research Platforms / Tools
+
+- ROS / ROS 2
+- Python
+- MATLAB
+- [Other tools/platforms]

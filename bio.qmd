@@ -1,0 +1,10 @@
+---
+title: "Short Bio"
+---
+
+::: {.bio-text}
+
+I have been affiliated with the Electrical Engineering Department at Parahyangan Catholic University (Universitas Katolik Parahyangan) since 2021, where I currently serve as a Lecturer. I obtained my M.Sc. in Mechanical Engineering from the University of Groningen in 2024, within the Smart Factory track, and my B.Eng. in Electrical Engineering from Parahyangan Catholic University in 2020, with a concentration in Mechatronics. Prior to my current appointment, I worked as a research assistant at Wetsus in the Netherlands, where I was involved in research on electrical-impedance-based underwater robot localisation and reverse-osmosis membrane damage detection.
+
+My main research interests are **Control Systems**, **Robotics**, and **Multi-Agent Systems**, with particular interest in cooperative robotic systems, autonomous systems, path planning, and event-triggered control.
+:::

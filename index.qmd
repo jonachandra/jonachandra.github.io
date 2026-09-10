@@ -1,0 +1,40 @@
+---
+title: "Jonathan Chandra"
+page-layout: full
+---
+
+# Jonathan Chandra
+
+**Lecturer | Robotics | Control Systems | Mechatronics**
+
+[Add a professional profile photo to `images/profile.jpg`]
+
+## About Me
+
+[Write a short 80–150 word academic biography here.]
+
+## Research Interests
+
+- [Research interest 1]
+- [Research interest 2]
+- [Research interest 3]
+- [Research interest 4]
+
+## Current Position
+
+**Lecturer**  
+[Department / Program]  
+Universitas Katolik Parahyangan  
+Bandung, Indonesia
+
+## Academic Links
+
+- Google Scholar: [add link]
+- ORCID: [add link]
+- GitHub: [add link]
+- LinkedIn: [add link]
+- University Profile: [add link]
+
+## Contact
+
+**Email:** [university email]

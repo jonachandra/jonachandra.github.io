@@ -1,0 +1,37 @@
+---
+title: "Teaching"
+---
+
+# Teaching
+
+## Courses Taught
+
+### 2026/2027 — Odd Semester
+
+- **Calculus I** — Differentiation
+- **Multidisciplinary Project** — Control Systems
+- **Automatic Control Systems** — Tutorial
+- **Vector Calculus and Complex Algebra** — Course + Tutorial
+- **Electromagnetic Fields**
+- **Differential Equations**
+
+### 2025/2026 — Even Semester
+
+- **Calculus II** — Integration
+- **Engineering Drawing**
+- **Robot Kinematics and Dynamics**
+- **Engineering Mechanics — Statics** — Tutorial
+- **Algorithms and Programming**
+
+### 2025/2026 — Odd Semester
+
+- **Calculus I** — Differentiation
+- **Multidisciplinary Project** — Control Systems
+- **Automatic Control Systems** — Tutorial
+- **Vector Calculus and Complex Algebra** — Course + Tutorial
+- **Electromagnetic Fields**
+
+## Teaching Areas
+
+My teaching covers mathematics, control systems, robotics, mechanics,
+programming, and electromagnetic engineering.

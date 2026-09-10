@@ -1,0 +1,40 @@
+---
+title: "Curriculum Vitae"
+---
+
+# Curriculum Vitae
+
+A downloadable PDF version of my CV will be available here.
+
+[Download CV](files/Jonathan_Chandra_CV.pdf)
+
+## Education
+
+### M.Sc. Mechanical Engineering
+**University of Groningen**  
+Track: Smart Factory  
+[Add dates and thesis information if desired.]
+
+### B.Eng. Electrical Engineering
+**Universitas Katolik Parahyangan**  
+Track: Mechatronics  
+[Add dates and thesis information if desired.]
+
+## Academic Employment
+
+### Lecturer
+**Universitas Katolik Parahyangan**  
+[Dates]
+
+[Short description.]
+
+## Research Experience
+
+[Add selected research roles/projects.]
+
+## Skills
+
+- Programming: [list]
+- Robotics: [list]
+- Engineering Software: [list]
+- Hardware: [list]
